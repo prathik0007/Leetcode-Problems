@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0258-add-digits](https://github.com/prathik0007/Leetcode-Problems/tree/master/0258-add-digits) |
 | [2520-count-the-digits-that-divide-a-number](https://github.com/prathik0007/Leetcode-Problems/tree/master/2520-count-the-digits-that-divide-a-number) |
 | [2535-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/prathik0007/Leetcode-Problems/tree/master/2535-difference-between-element-sum-and-digit-sum-of-an-array) |
+| [2769-find-the-maximum-achievable-number](https://github.com/prathik0007/Leetcode-Problems/tree/master/2769-find-the-maximum-achievable-number) |
 | [2894-divisible-and-non-divisible-sums-difference](https://github.com/prathik0007/Leetcode-Problems/tree/master/2894-divisible-and-non-divisible-sums-difference) |
 ## Simulation
 |  |
