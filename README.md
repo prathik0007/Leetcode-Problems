@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0066-plus-one](https://github.com/prathik0007/Leetcode-Problems/tree/master/0066-plus-one) |
 | [0258-add-digits](https://github.com/prathik0007/Leetcode-Problems/tree/master/0258-add-digits) |
 | [1281-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/prathik0007/Leetcode-Problems/tree/master/1281-subtract-the-product-and-sum-of-digits-of-an-integer) |
 | [1486-xor-operation-in-an-array](https://github.com/prathik0007/Leetcode-Problems/tree/master/1486-xor-operation-in-an-array) |
@@ -57,6 +58,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0026-remove-duplicates-from-sorted-array](https://github.com/prathik0007/Leetcode-Problems/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/prathik0007/Leetcode-Problems/tree/master/0027-remove-element) |
 | [0035-search-insert-position](https://github.com/prathik0007/Leetcode-Problems/tree/master/0035-search-insert-position) |
+| [0066-plus-one](https://github.com/prathik0007/Leetcode-Problems/tree/master/0066-plus-one) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/prathik0007/Leetcode-Problems/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0287-find-the-duplicate-number](https://github.com/prathik0007/Leetcode-Problems/tree/master/0287-find-the-duplicate-number) |
 | [0977-squares-of-a-sorted-array](https://github.com/prathik0007/Leetcode-Problems/tree/master/0977-squares-of-a-sorted-array) |
