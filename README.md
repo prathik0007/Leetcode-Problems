@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0066-plus-one](https://github.com/prathik0007/Leetcode-Problems/tree/master/0066-plus-one) |
+| [0171-excel-sheet-column-number](https://github.com/prathik0007/Leetcode-Problems/tree/master/0171-excel-sheet-column-number) |
 | [0258-add-digits](https://github.com/prathik0007/Leetcode-Problems/tree/master/0258-add-digits) |
 | [1281-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/prathik0007/Leetcode-Problems/tree/master/1281-subtract-the-product-and-sum-of-digits-of-an-integer) |
 | [1486-xor-operation-in-an-array](https://github.com/prathik0007/Leetcode-Problems/tree/master/1486-xor-operation-in-an-array) |
@@ -37,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/prathik0007/Leetcode-Problems/tree/master/0014-longest-common-prefix) |
+| [0171-excel-sheet-column-number](https://github.com/prathik0007/Leetcode-Problems/tree/master/0171-excel-sheet-column-number) |
 | [0242-valid-anagram](https://github.com/prathik0007/Leetcode-Problems/tree/master/0242-valid-anagram) |
 | [0387-first-unique-character-in-a-string](https://github.com/prathik0007/Leetcode-Problems/tree/master/0387-first-unique-character-in-a-string) |
 | [0657-robot-return-to-origin](https://github.com/prathik0007/Leetcode-Problems/tree/master/0657-robot-return-to-origin) |
