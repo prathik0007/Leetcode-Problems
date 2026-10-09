@@ -33,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0242-valid-anagram](https://github.com/prathik0007/Leetcode-Problems/tree/master/0242-valid-anagram) |
 | [0349-intersection-of-two-arrays](https://github.com/prathik0007/Leetcode-Problems/tree/master/0349-intersection-of-two-arrays) |
 | [0387-first-unique-character-in-a-string](https://github.com/prathik0007/Leetcode-Problems/tree/master/0387-first-unique-character-in-a-string) |
+| [0389-find-the-difference](https://github.com/prathik0007/Leetcode-Problems/tree/master/0389-find-the-difference) |
 | [1832-check-if-the-sentence-is-pangram](https://github.com/prathik0007/Leetcode-Problems/tree/master/1832-check-if-the-sentence-is-pangram) |
 ## String
 |  |
@@ -41,6 +42,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0171-excel-sheet-column-number](https://github.com/prathik0007/Leetcode-Problems/tree/master/0171-excel-sheet-column-number) |
 | [0242-valid-anagram](https://github.com/prathik0007/Leetcode-Problems/tree/master/0242-valid-anagram) |
 | [0387-first-unique-character-in-a-string](https://github.com/prathik0007/Leetcode-Problems/tree/master/0387-first-unique-character-in-a-string) |
+| [0389-find-the-difference](https://github.com/prathik0007/Leetcode-Problems/tree/master/0389-find-the-difference) |
 | [0657-robot-return-to-origin](https://github.com/prathik0007/Leetcode-Problems/tree/master/0657-robot-return-to-origin) |
 | [0709-to-lower-case](https://github.com/prathik0007/Leetcode-Problems/tree/master/0709-to-lower-case) |
 | [1832-check-if-the-sentence-is-pangram](https://github.com/prathik0007/Leetcode-Problems/tree/master/1832-check-if-the-sentence-is-pangram) |
@@ -90,6 +92,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0287-find-the-duplicate-number](https://github.com/prathik0007/Leetcode-Problems/tree/master/0287-find-the-duplicate-number) |
+| [0389-find-the-difference](https://github.com/prathik0007/Leetcode-Problems/tree/master/0389-find-the-difference) |
 | [1486-xor-operation-in-an-array](https://github.com/prathik0007/Leetcode-Problems/tree/master/1486-xor-operation-in-an-array) |
 ## Binary Search
 |  |
@@ -151,6 +154,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0242-valid-anagram](https://github.com/prathik0007/Leetcode-Problems/tree/master/0242-valid-anagram) |
 | [0349-intersection-of-two-arrays](https://github.com/prathik0007/Leetcode-Problems/tree/master/0349-intersection-of-two-arrays) |
+| [0389-find-the-difference](https://github.com/prathik0007/Leetcode-Problems/tree/master/0389-find-the-difference) |
 | [0977-squares-of-a-sorted-array](https://github.com/prathik0007/Leetcode-Problems/tree/master/0977-squares-of-a-sorted-array) |
 ## Trie
 |  |
