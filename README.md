@@ -69,6 +69,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/prathik0007/Leetcode-Problems/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0287-find-the-duplicate-number](https://github.com/prathik0007/Leetcode-Problems/tree/master/0287-find-the-duplicate-number) |
 | [0349-intersection-of-two-arrays](https://github.com/prathik0007/Leetcode-Problems/tree/master/0349-intersection-of-two-arrays) |
+| [0414-third-maximum-number](https://github.com/prathik0007/Leetcode-Problems/tree/master/0414-third-maximum-number) |
 | [0977-squares-of-a-sorted-array](https://github.com/prathik0007/Leetcode-Problems/tree/master/0977-squares-of-a-sorted-array) |
 | [1550-three-consecutive-odds](https://github.com/prathik0007/Leetcode-Problems/tree/master/1550-three-consecutive-odds) |
 | [1672-richest-customer-wealth](https://github.com/prathik0007/Leetcode-Problems/tree/master/1672-richest-customer-wealth) |
@@ -155,6 +156,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0242-valid-anagram](https://github.com/prathik0007/Leetcode-Problems/tree/master/0242-valid-anagram) |
 | [0349-intersection-of-two-arrays](https://github.com/prathik0007/Leetcode-Problems/tree/master/0349-intersection-of-two-arrays) |
 | [0389-find-the-difference](https://github.com/prathik0007/Leetcode-Problems/tree/master/0389-find-the-difference) |
+| [0414-third-maximum-number](https://github.com/prathik0007/Leetcode-Problems/tree/master/0414-third-maximum-number) |
 | [0977-squares-of-a-sorted-array](https://github.com/prathik0007/Leetcode-Problems/tree/master/0977-squares-of-a-sorted-array) |
 ## Trie
 |  |
