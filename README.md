@@ -48,6 +48,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0387-first-unique-character-in-a-string](https://github.com/prathik0007/Leetcode-Problems/tree/master/0387-first-unique-character-in-a-string) |
 | [0389-find-the-difference](https://github.com/prathik0007/Leetcode-Problems/tree/master/0389-find-the-difference) |
 | [0409-longest-palindrome](https://github.com/prathik0007/Leetcode-Problems/tree/master/0409-longest-palindrome) |
+| [0459-repeated-substring-pattern](https://github.com/prathik0007/Leetcode-Problems/tree/master/0459-repeated-substring-pattern) |
 | [0657-robot-return-to-origin](https://github.com/prathik0007/Leetcode-Problems/tree/master/0657-robot-return-to-origin) |
 | [0709-to-lower-case](https://github.com/prathik0007/Leetcode-Problems/tree/master/0709-to-lower-case) |
 | [1832-check-if-the-sentence-is-pangram](https://github.com/prathik0007/Leetcode-Problems/tree/master/1832-check-if-the-sentence-is-pangram) |
@@ -172,4 +173,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0409-longest-palindrome](https://github.com/prathik0007/Leetcode-Problems/tree/master/0409-longest-palindrome) |
+## String Matching
+|  |
+| ------- |
+| [0459-repeated-substring-pattern](https://github.com/prathik0007/Leetcode-Problems/tree/master/0459-repeated-substring-pattern) |
+## Z Algorithm
+|  |
+| ------- |
+| [0459-repeated-substring-pattern](https://github.com/prathik0007/Leetcode-Problems/tree/master/0459-repeated-substring-pattern) |
+## Knuth–Morris–Pratt Algorithm
+|  |
+| ------- |
+| [0459-repeated-substring-pattern](https://github.com/prathik0007/Leetcode-Problems/tree/master/0459-repeated-substring-pattern) |
 <!---LeetCode Topics End-->
