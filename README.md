@@ -73,6 +73,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0035-search-insert-position](https://github.com/prathik0007/Leetcode-Problems/tree/master/0035-search-insert-position) |
 | [0066-plus-one](https://github.com/prathik0007/Leetcode-Problems/tree/master/0066-plus-one) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/prathik0007/Leetcode-Problems/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
+| [0216-combination-sum-iii](https://github.com/prathik0007/Leetcode-Problems/tree/master/0216-combination-sum-iii) |
 | [0287-find-the-duplicate-number](https://github.com/prathik0007/Leetcode-Problems/tree/master/0287-find-the-duplicate-number) |
 | [0349-intersection-of-two-arrays](https://github.com/prathik0007/Leetcode-Problems/tree/master/0349-intersection-of-two-arrays) |
 | [0414-third-maximum-number](https://github.com/prathik0007/Leetcode-Problems/tree/master/0414-third-maximum-number) |
@@ -185,4 +186,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0459-repeated-substring-pattern](https://github.com/prathik0007/Leetcode-Problems/tree/master/0459-repeated-substring-pattern) |
+## Backtracking
+|  |
+| ------- |
+| [0216-combination-sum-iii](https://github.com/prathik0007/Leetcode-Problems/tree/master/0216-combination-sum-iii) |
 <!---LeetCode Topics End-->
