@@ -190,4 +190,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0216-combination-sum-iii](https://github.com/prathik0007/Leetcode-Problems/tree/master/0216-combination-sum-iii) |
+## Database
+|  |
+| ------- |
+| [0182-duplicate-emails](https://github.com/prathik0007/Leetcode-Problems/tree/master/0182-duplicate-emails) |
 <!---LeetCode Topics End-->
