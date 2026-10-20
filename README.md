@@ -71,6 +71,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0026-remove-duplicates-from-sorted-array](https://github.com/prathik0007/Leetcode-Problems/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/prathik0007/Leetcode-Problems/tree/master/0027-remove-element) |
 | [0035-search-insert-position](https://github.com/prathik0007/Leetcode-Problems/tree/master/0035-search-insert-position) |
+| [0046-permutations](https://github.com/prathik0007/Leetcode-Problems/tree/master/0046-permutations) |
 | [0066-plus-one](https://github.com/prathik0007/Leetcode-Problems/tree/master/0066-plus-one) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/prathik0007/Leetcode-Problems/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0216-combination-sum-iii](https://github.com/prathik0007/Leetcode-Problems/tree/master/0216-combination-sum-iii) |
@@ -189,6 +190,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Backtracking
 |  |
 | ------- |
+| [0046-permutations](https://github.com/prathik0007/Leetcode-Problems/tree/master/0046-permutations) |
 | [0216-combination-sum-iii](https://github.com/prathik0007/Leetcode-Problems/tree/master/0216-combination-sum-iii) |
 ## Database
 |  |
