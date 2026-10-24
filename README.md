@@ -42,6 +42,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/prathik0007/Leetcode-Problems/tree/master/0014-longest-common-prefix) |
+| [0022-generate-parentheses](https://github.com/prathik0007/Leetcode-Problems/tree/master/0022-generate-parentheses) |
 | [0067-add-binary](https://github.com/prathik0007/Leetcode-Problems/tree/master/0067-add-binary) |
 | [0171-excel-sheet-column-number](https://github.com/prathik0007/Leetcode-Problems/tree/master/0171-excel-sheet-column-number) |
 | [0242-valid-anagram](https://github.com/prathik0007/Leetcode-Problems/tree/master/0242-valid-anagram) |
@@ -190,6 +191,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Backtracking
 |  |
 | ------- |
+| [0022-generate-parentheses](https://github.com/prathik0007/Leetcode-Problems/tree/master/0022-generate-parentheses) |
 | [0046-permutations](https://github.com/prathik0007/Leetcode-Problems/tree/master/0046-permutations) |
 | [0216-combination-sum-iii](https://github.com/prathik0007/Leetcode-Problems/tree/master/0216-combination-sum-iii) |
 ## Database
@@ -209,4 +211,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0620-not-boring-movies](https://github.com/prathik0007/Leetcode-Problems/tree/master/0620-not-boring-movies) |
 | [1068-product-sales-analysis-i](https://github.com/prathik0007/Leetcode-Problems/tree/master/1068-product-sales-analysis-i) |
 | [1378-replace-employee-id-with-the-unique-identifier](https://github.com/prathik0007/Leetcode-Problems/tree/master/1378-replace-employee-id-with-the-unique-identifier) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0022-generate-parentheses](https://github.com/prathik0007/Leetcode-Problems/tree/master/0022-generate-parentheses) |
+## Bracket Sequences
+|  |
+| ------- |
+| [0022-generate-parentheses](https://github.com/prathik0007/Leetcode-Problems/tree/master/0022-generate-parentheses) |
 <!---LeetCode Topics End-->
