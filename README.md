@@ -79,6 +79,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0287-find-the-duplicate-number](https://github.com/prathik0007/Leetcode-Problems/tree/master/0287-find-the-duplicate-number) |
 | [0349-intersection-of-two-arrays](https://github.com/prathik0007/Leetcode-Problems/tree/master/0349-intersection-of-two-arrays) |
 | [0414-third-maximum-number](https://github.com/prathik0007/Leetcode-Problems/tree/master/0414-third-maximum-number) |
+| [0485-max-consecutive-ones](https://github.com/prathik0007/Leetcode-Problems/tree/master/0485-max-consecutive-ones) |
 | [0977-squares-of-a-sorted-array](https://github.com/prathik0007/Leetcode-Problems/tree/master/0977-squares-of-a-sorted-array) |
 | [1550-three-consecutive-odds](https://github.com/prathik0007/Leetcode-Problems/tree/master/1550-three-consecutive-odds) |
 | [1672-richest-customer-wealth](https://github.com/prathik0007/Leetcode-Problems/tree/master/1672-richest-customer-wealth) |
