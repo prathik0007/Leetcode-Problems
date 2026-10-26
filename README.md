@@ -214,6 +214,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1068-product-sales-analysis-i](https://github.com/prathik0007/Leetcode-Problems/tree/master/1068-product-sales-analysis-i) |
 | [1148-article-views-i](https://github.com/prathik0007/Leetcode-Problems/tree/master/1148-article-views-i) |
 | [1378-replace-employee-id-with-the-unique-identifier](https://github.com/prathik0007/Leetcode-Problems/tree/master/1378-replace-employee-id-with-the-unique-identifier) |
+| [1693-daily-leads-and-partners](https://github.com/prathik0007/Leetcode-Problems/tree/master/1693-daily-leads-and-partners) |
 ## Dynamic Programming
 |  |
 | ------- |
