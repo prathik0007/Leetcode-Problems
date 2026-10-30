@@ -40,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0389-find-the-difference](https://github.com/prathik0007/Leetcode-Problems/tree/master/0389-find-the-difference) |
 | [0409-longest-palindrome](https://github.com/prathik0007/Leetcode-Problems/tree/master/0409-longest-palindrome) |
 | [0575-distribute-candies](https://github.com/prathik0007/Leetcode-Problems/tree/master/0575-distribute-candies) |
+| [1002-find-common-characters](https://github.com/prathik0007/Leetcode-Problems/tree/master/1002-find-common-characters) |
 | [1832-check-if-the-sentence-is-pangram](https://github.com/prathik0007/Leetcode-Problems/tree/master/1832-check-if-the-sentence-is-pangram) |
 ## String
 |  |
@@ -58,6 +59,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0680-valid-palindrome-ii](https://github.com/prathik0007/Leetcode-Problems/tree/master/0680-valid-palindrome-ii) |
 | [0709-to-lower-case](https://github.com/prathik0007/Leetcode-Problems/tree/master/0709-to-lower-case) |
 | [0796-rotate-string](https://github.com/prathik0007/Leetcode-Problems/tree/master/0796-rotate-string) |
+| [1002-find-common-characters](https://github.com/prathik0007/Leetcode-Problems/tree/master/1002-find-common-characters) |
 | [1832-check-if-the-sentence-is-pangram](https://github.com/prathik0007/Leetcode-Problems/tree/master/1832-check-if-the-sentence-is-pangram) |
 | [2108-find-first-palindromic-string-in-the-array](https://github.com/prathik0007/Leetcode-Problems/tree/master/2108-find-first-palindromic-string-in-the-array) |
 | [2114-maximum-number-of-words-found-in-sentences](https://github.com/prathik0007/Leetcode-Problems/tree/master/2114-maximum-number-of-words-found-in-sentences) |
@@ -88,6 +90,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0485-max-consecutive-ones](https://github.com/prathik0007/Leetcode-Problems/tree/master/0485-max-consecutive-ones) |
 | [0575-distribute-candies](https://github.com/prathik0007/Leetcode-Problems/tree/master/0575-distribute-candies) |
 | [0977-squares-of-a-sorted-array](https://github.com/prathik0007/Leetcode-Problems/tree/master/0977-squares-of-a-sorted-array) |
+| [1002-find-common-characters](https://github.com/prathik0007/Leetcode-Problems/tree/master/1002-find-common-characters) |
 | [1550-three-consecutive-odds](https://github.com/prathik0007/Leetcode-Problems/tree/master/1550-three-consecutive-odds) |
 | [1672-richest-customer-wealth](https://github.com/prathik0007/Leetcode-Problems/tree/master/1672-richest-customer-wealth) |
 | [1822-sign-of-the-product-of-an-array](https://github.com/prathik0007/Leetcode-Problems/tree/master/1822-sign-of-the-product-of-an-array) |
