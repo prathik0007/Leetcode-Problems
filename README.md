@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0067-add-binary](https://github.com/prathik0007/Leetcode-Problems/tree/master/0067-add-binary) |
 | [0171-excel-sheet-column-number](https://github.com/prathik0007/Leetcode-Problems/tree/master/0171-excel-sheet-column-number) |
 | [0258-add-digits](https://github.com/prathik0007/Leetcode-Problems/tree/master/0258-add-digits) |
+| [0268-missing-number](https://github.com/prathik0007/Leetcode-Problems/tree/master/0268-missing-number) |
 | [0412-fizz-buzz](https://github.com/prathik0007/Leetcode-Problems/tree/master/0412-fizz-buzz) |
 | [1281-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/prathik0007/Leetcode-Problems/tree/master/1281-subtract-the-product-and-sum-of-digits-of-an-integer) |
 | [1486-xor-operation-in-an-array](https://github.com/prathik0007/Leetcode-Problems/tree/master/1486-xor-operation-in-an-array) |
@@ -35,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0242-valid-anagram](https://github.com/prathik0007/Leetcode-Problems/tree/master/0242-valid-anagram) |
+| [0268-missing-number](https://github.com/prathik0007/Leetcode-Problems/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/prathik0007/Leetcode-Problems/tree/master/0349-intersection-of-two-arrays) |
 | [0387-first-unique-character-in-a-string](https://github.com/prathik0007/Leetcode-Problems/tree/master/0387-first-unique-character-in-a-string) |
 | [0389-find-the-difference](https://github.com/prathik0007/Leetcode-Problems/tree/master/0389-find-the-difference) |
@@ -85,6 +87,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0066-plus-one](https://github.com/prathik0007/Leetcode-Problems/tree/master/0066-plus-one) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/prathik0007/Leetcode-Problems/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0216-combination-sum-iii](https://github.com/prathik0007/Leetcode-Problems/tree/master/0216-combination-sum-iii) |
+| [0268-missing-number](https://github.com/prathik0007/Leetcode-Problems/tree/master/0268-missing-number) |
 | [0287-find-the-duplicate-number](https://github.com/prathik0007/Leetcode-Problems/tree/master/0287-find-the-duplicate-number) |
 | [0349-intersection-of-two-arrays](https://github.com/prathik0007/Leetcode-Problems/tree/master/0349-intersection-of-two-arrays) |
 | [0414-third-maximum-number](https://github.com/prathik0007/Leetcode-Problems/tree/master/0414-third-maximum-number) |
@@ -116,6 +119,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0067-add-binary](https://github.com/prathik0007/Leetcode-Problems/tree/master/0067-add-binary) |
+| [0268-missing-number](https://github.com/prathik0007/Leetcode-Problems/tree/master/0268-missing-number) |
 | [0287-find-the-duplicate-number](https://github.com/prathik0007/Leetcode-Problems/tree/master/0287-find-the-duplicate-number) |
 | [0389-find-the-difference](https://github.com/prathik0007/Leetcode-Problems/tree/master/0389-find-the-difference) |
 | [1486-xor-operation-in-an-array](https://github.com/prathik0007/Leetcode-Problems/tree/master/1486-xor-operation-in-an-array) |
@@ -123,6 +127,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0035-search-insert-position](https://github.com/prathik0007/Leetcode-Problems/tree/master/0035-search-insert-position) |
+| [0268-missing-number](https://github.com/prathik0007/Leetcode-Problems/tree/master/0268-missing-number) |
 | [0287-find-the-duplicate-number](https://github.com/prathik0007/Leetcode-Problems/tree/master/0287-find-the-duplicate-number) |
 | [0349-intersection-of-two-arrays](https://github.com/prathik0007/Leetcode-Problems/tree/master/0349-intersection-of-two-arrays) |
 ## Pigeonhole Principle
@@ -178,6 +183,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0242-valid-anagram](https://github.com/prathik0007/Leetcode-Problems/tree/master/0242-valid-anagram) |
+| [0268-missing-number](https://github.com/prathik0007/Leetcode-Problems/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/prathik0007/Leetcode-Problems/tree/master/0349-intersection-of-two-arrays) |
 | [0389-find-the-difference](https://github.com/prathik0007/Leetcode-Problems/tree/master/0389-find-the-difference) |
 | [0414-third-maximum-number](https://github.com/prathik0007/Leetcode-Problems/tree/master/0414-third-maximum-number) |
