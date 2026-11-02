@@ -44,6 +44,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0575-distribute-candies](https://github.com/prathik0007/Leetcode-Problems/tree/master/0575-distribute-candies) |
 | [1002-find-common-characters](https://github.com/prathik0007/Leetcode-Problems/tree/master/1002-find-common-characters) |
 | [1832-check-if-the-sentence-is-pangram](https://github.com/prathik0007/Leetcode-Problems/tree/master/1832-check-if-the-sentence-is-pangram) |
+| [3731-find-missing-elements](https://github.com/prathik0007/Leetcode-Problems/tree/master/3731-find-missing-elements) |
 ## String
 |  |
 | ------- |
@@ -104,6 +105,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2798-number-of-employees-who-met-the-target](https://github.com/prathik0007/Leetcode-Problems/tree/master/2798-number-of-employees-who-met-the-target) |
 | [2942-find-words-containing-character](https://github.com/prathik0007/Leetcode-Problems/tree/master/2942-find-words-containing-character) |
 | [3232-find-if-digit-game-can-be-won](https://github.com/prathik0007/Leetcode-Problems/tree/master/3232-find-if-digit-game-can-be-won) |
+| [3731-find-missing-elements](https://github.com/prathik0007/Leetcode-Problems/tree/master/3731-find-missing-elements) |
 ## Two Pointers
 |  |
 | ------- |
@@ -188,6 +190,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0389-find-the-difference](https://github.com/prathik0007/Leetcode-Problems/tree/master/0389-find-the-difference) |
 | [0414-third-maximum-number](https://github.com/prathik0007/Leetcode-Problems/tree/master/0414-third-maximum-number) |
 | [0977-squares-of-a-sorted-array](https://github.com/prathik0007/Leetcode-Problems/tree/master/0977-squares-of-a-sorted-array) |
+| [3731-find-missing-elements](https://github.com/prathik0007/Leetcode-Problems/tree/master/3731-find-missing-elements) |
 ## Trie
 |  |
 | ------- |
